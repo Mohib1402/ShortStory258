@@ -1,7 +1,7 @@
 ---
 # Vision-Language-Action Models for Embodied AI – A Survey Overview
 
-📚 **Short Story Assignment – CMPE 258: Deep Learning**  
+📚 Short Story Assignment – CMPE 258: Deep Learning  
 👨‍🏫 Professor: Vijay Eranti  
 ✍️ Author: Mohibkhan Pathan  
 
