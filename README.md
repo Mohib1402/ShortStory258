@@ -29,7 +29,7 @@ The paper explores **Vision-Language-Action (VLA) models**, which combine vision
 ## 📊 Slide Deck
 
 > 📈 **View on SlideShare:**  
-[https://www.slideshare.net/slideshow/vision-language-action-models-for-embodied-ai-a-survey-overview/279317481](https://www.slideshare.net/slideshow/vision-language-action-models-for-embodied-ai-a-survey-overview/279317481)
+[https://www.slideshare.net/slideshow/vision-language-action-models-for-embodied-ai-a-survey-overview/279317481](https://www.slideshare.net/slideshow/vision-language-action-models-for-embodied-ai/279319768)
 
 > 📁 Or find the PDF in this repository: `/slides/ShortStory258.pdf`
 
