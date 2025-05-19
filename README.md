@@ -1,160 +1,70 @@
 ---
+# Vision-Language-Action Models for Embodied AI – A Survey Overview
 
-````markdown
-# 🧠 CMPE 258: Short Story Assignment — Foundation Models & LLMs (2024–2025)
-
-This repository contains all deliverables for my **individual Short Story Assignment** in *CMPE 258: Advanced Data Mining* at **San José State University**, guided by **Professor Vijay Eranti**. The focus of this assignment is a comprehensive review and interpretation of a **recent (late 2024 or 2025)** survey or top-tier research paper related to **Large Language Models (LLMs)** or **Foundation Models**, particularly those exploring **non-standard modalities** such as **tabular**, **graph**, or **time series data**.
-
----
-
-## 📌 Assignment Overview
-
-- 🔍 **Topic**: Deep review of a recent research/survey paper in the LLM/foundation model space
-- ✍️ **Goal**: Reframe and summarize the paper entirely in **my own words**
-- 🌐 **Output**:
-  - A **Medium.com article**
-  - A **15–25 min video presentation**
-  - A **slide deck** (PDF or hosted)
-  - A **public GitHub repository** with structured documentation
+📚 **Short Story Assignment – CMPE 258: Deep Learning**  
+👨‍🏫 Professor: Vijay Eranti  
+✍️ Author: Mohibkhan Pathan  
 
 ---
 
-## 📄 Paper Reviewed
+## 🔍 Overview
 
-- **Title**: *[Insert Full Paper Title]*  
-- **Authors**: *[Author List]*  
-- **Source**: *[ICLR / NeurIPS / ICML / arXiv]*  
-- **Published**: *[Month Year]*  
-- **Paper Link**: [Access Full Paper](#)
+This project is a deep-dive review of the 2024 survey paper:
+
+**Ma, Y., Song, Z., Zhuang, Y., Hao, J., & King, I.**  
+*A Survey on Vision-Language-Action Models for Embodied AI.*  
+[arXiv:2405.14093](https://arxiv.org/abs/2405.14093)
+
+The paper explores **Vision-Language-Action (VLA) models**, which combine vision, language, and robotic control to enable AI agents that can operate in the real world. This repository contains all the components of my short story assignment including the article, slides, and video placeholder.
 
 ---
 
 ## 📝 Medium Article
 
-- **Title**: *[Your Medium Article Title]*  
-- **Published At**: [Link to Medium](#)
-
-**Article Focus:**
-- Key motivations and background of the paper
-- Architecture and methodological overview
-- Experimental setup, benchmarks, and ablation studies
-- Challenges, limitations, and forward-looking commentary
-- Visual illustrations from the paper and my own insights
+> 📖 **Read the full article on Medium:**  
+[https://medium.com/@uu7470911/vision-language-action-models-for-embodied-ai-a-survey-overview-d26f11af282c](https://medium.com/@uu7470911/vision-language-action-models-for-embodied-ai-a-survey-overview-d26f11af282c)
 
 ---
 
-## 📊 Presentation Slides
+## 📊 Slide Deck
 
-- **Title**: *[Slide Deck Title]*  
-- **SlideShare/Google Slides**: [View Slides](#)  
-- **Backup PDF**: `slides/short_story_slides.pdf`
+> 📈 **View on SlideShare:**  
+[https://www.slideshare.net/slideshow/vision-language-action-models-for-embodied-ai-a-survey-overview/279317481](https://www.slideshare.net/slideshow/vision-language-action-models-for-embodied-ai-a-survey-overview/279317481)
 
-Covers:
-- Visual summary of the paper’s core ideas
-- Diagrams and results from the original source
-- My rewritten explanations for ease of understanding
-- Takeaways and broader implications
+> 📁 Or find the PDF in this repository: `/slides/ShortStory258.pdf`
 
 ---
 
-## 🎥 Video Walkthrough
+## 🎥 Video Presentation
 
-- **Title**: *Short Story Presentation – [Paper Topic]*  
-- **Duration**: 15–25 minutes  
-- **YouTube Link**: [Watch Video](#)
-
-Explains:
-- Paper structure and motivation
-- Architectural contributions and methodology
-- Comparative performance on key tasks
-- Insights and personal reflections on the topic
+> 🚧 *Coming soon...*  
+(15–25 min recorded walkthrough of the slide deck)
 
 ---
 
-## 📁 Directory Structure
+## 📂 Repository Structure
 
 ```bash
 .
-├── README.md                      # This file
-├── medium_article/
-│   └── article_backup.md          # Optional Medium article backup
+├── README.md
 ├── slides/
-│   └── short_story_slides.pdf     # Final presentation slides
-├── video/
-│   └── short_story_video.mp4      # Presentation recording
-├── references/
-│   ├── diagram1.png
-│   └── benchmark_chart.png        # Figures from the paper (properly cited)
-└── paper/
-    └── reviewed_paper.pdf         # Original research paper (if redistribution allowed)
-````
-
----
-
-## 📈 Key Learnings
-
-* 🚀 The reviewed work showcases foundation models adapted to **\[modality]** (e.g., tabular, graph, time series)
-* 🧱 Introduces novel architecture or tuning strategies
-* 🧪 Extensive ablation and benchmark studies validate effectiveness
-* 📉 Highlights challenges around **generalization**, **efficiency**, and **interpretability**
-
----
-
-## 📚 Citation
-
-```bibtex
-@article{author2024foundation,
-  title={Insert Paper Title Here},
-  author={Author, A. and Author, B.},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
-}
+│   └── ShortStory258.pdf
+└── links/
+    ├── medium_article.txt
+    └── slideshare_link.txt
 ```
 
 ---
 
-## ✅ Submission Checklist
+## 📚 Reference
 
-| Deliverable                 | Status |
-| --------------------------- | ------ |
-| Medium article published    | ✅      |
-| Slide deck hosted/shared    | ✅      |
-| 15–25 minute video recorded | ✅      |
-| GitHub repo made public     | ✅      |
-| Structured README.md        | ✅      |
-| Submission links updated    | ✅      |
+Ma, Y., Song, Z., Zhuang, Y., Hao, J., & King, I. (2024).
+*A Survey on Vision-Language-Action Models for Embodied AI.*
+arXiv preprint [arXiv:2405.14093](https://arxiv.org/abs/2405.14093)
 
 ---
 
-## 🔗 Resources Used
+## ✅ Submission Notes
 
-* [arXiv Foundation Model Survey Search](https://arxiv.org/search/?query=foundation+model+survey&searchtype=title)
-* [Awesome-Huge-Models GitHub](https://github.com/zhengzangw/awesome-huge-models)
-* [Papers with Code: LLMs](https://paperswithcode.com/search?q=large+language+models)
-* [Awesome-Graph-LLMs](https://github.com/chenshenghao/awesome-graph-llm)
-
----
-
-## 👨‍🏫 Course Details
-
-* **Course**: CMPE 258 – Advanced Data Mining
-* **Instructor**: Professor Vijay Eranti
-* **Institution**: San José State University
-* **Semester**: Spring 2025
-
----
-
-## 🙌 Acknowledgements
-
-I extend sincere thanks to:
-
-* The paper’s authors for their foundational contributions
-* Professor Eranti for encouraging critical research interpretation
-* My peer reviewer for ensuring clarity and completeness
-
----
-
-## 📬 Contact
-
-Have feedback or want to collaborate on future research?
-Connect via [GitHub Issues](#) or leave comments on the Medium article.
+* This is an individual short story assignment for CMPE 258
+* Please contact me via LinkedIn or GitHub for collaboration or discussion
