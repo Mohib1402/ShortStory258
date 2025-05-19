@@ -37,8 +37,7 @@ The paper explores **Vision-Language-Action (VLA) models**, which combine vision
 
 ## 🎥 Video Presentation
 
-> 🚧 *Coming soon...*  
-(15–25 min recorded walkthrough of the slide deck)
+[Presentation](https://arxiv.org/abs/2405.14093)
 
 ---
 
